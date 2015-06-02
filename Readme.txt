@@ -1,2 +1,2 @@
-This project requires  "Adafruit_Python_BMP to work properly
+IMPORTANT: This project requires the "Adafruit_Python_BMP" project to work properly (must be installed in the same directory)
 It is also only half of the project, this is only a dump of all the needed files not the actual working version
